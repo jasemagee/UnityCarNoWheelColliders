@@ -2,7 +2,7 @@
 
 This is an attempt to create a car in Unity without using the in-built Wheel Colliders loosely based off of the technical description in this video from Space Dust Racing.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LG1CtlFRmpU/0.jpg)](https://youtu.be/LG1CtlFRmpU)
+[![Space Dust Racing Video](http://img.youtube.com/vi/LG1CtlFRmpU/0.jpg)](https://youtu.be/LG1CtlFRmpU)
 
 The car uses raycasts and a suspension system to keep "afloat". Screenshots below.
 
